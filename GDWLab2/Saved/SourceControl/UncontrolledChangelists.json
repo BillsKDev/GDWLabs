@@ -93,7 +93,6 @@
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/__ExternalActors__/Lab2/2/CG/SE6WBFVVYPTZE69TBG53Z3.uasset",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Lab2.umap",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/__ExternalActors__/Lab2/0/B3/98W999LI4KK3FU38WHGRN3.uasset",
-				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Blueprints/Player/Turret/Bullet/BP_Bullet.uasset",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Blueprints/Player/Turret/Bullet/BP_Bullett.uasset",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Blueprints/Player/Turret/BP_Turret.uasset",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Blueprints/Player/Turret/BP_FPCharacter.uasset",
@@ -244,6 +243,15 @@
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/__ExternalActors__/NewMap/2/97/3V83DZXP0WILS8G17CM3NX.uasset",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/NewMap.umap",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Turretgun.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Lab4.umap",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Megascans/Surfaces/mat.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/NewMaterial.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/NewMaterial1.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Lab4_sharedassets/Grass_LayerInfo.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Lab4_sharedassets/Ground_LayerInfo.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Lab4_sharedassets/Snow_LayerInfo.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Lab4_sharedassets/Tower_LayerInfo.uasset",
+				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Blueprints/Player/Turret/Bullet/BP_Bullet.uasset",
 				"C:/Users/TheRe/Documents/GDWLABS/GDWLab1/GDWLab2/Content/Blueprints/BP_FPCharacter.uasset"
 			]
 		}
